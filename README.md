@@ -6,9 +6,12 @@ I'm Daniel,
 - 🌱 I'm currently learning GraphQL and MERNQ
 
 <a href="javascript:void(0);">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dghojas&layout=compact&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=193549&text_color=ffffff&hide=contribs" alt="@dghojas Top Langs" /></a>
+	<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dghojas&layout=compact&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=193549&text_color=ffffff&hide=contribs" alt="@dghojas Top Langs" />
+ </a>
 <a href="javascript:void(0);">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=dghojas&layout=compact&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=193549&text_color=ffffff&hide=contribs" alt="@dghojas GitHub stats" /></a>
+	<img align="center" src="https://github-readme-stats.vercel.app/api?username=dghojas&layout=compact&show_icons=true&hide_border=true&title_color=f4f4f4&icon_color=00d8fd&bg_color=193549&text_color=ffffff&hide=contribs" alt="@dghojas GitHub stats" />
+</a>
+
 
 ### 🛠 Tech Stack
 
@@ -20,5 +23,5 @@ I'm Daniel,
 - IDE's: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-25acf2?style=flat-square&logo=visual-studio-code&logoColor=white)
 - Design: ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat-square&logo=Photoshop&logoColor=white)
 
-### 🤝 &nbsp; Connect with me
+### 🤝 Connect with me
 <a href="https://www.linkedin.com/in/dghojas/" target="_blank" rel="noopener noreferrer">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
