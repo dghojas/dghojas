@@ -22,5 +22,5 @@ I'm Daniel,
 - IDE's: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-25acf2?style=flat-square&logo=visual-studio-code&logoColor=white)
 - Design: ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat-square&logo=Photoshop&logoColor=white)
 
-### 🤝 Connect with me
+### 🤝 &nbsp; Connect with me
 <a href="https://www.linkedin.com/in/dghojas/" target="_blank" rel="noopener noreferrer">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
