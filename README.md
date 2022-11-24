@@ -2,7 +2,6 @@
 
 I'm Daniel,
 
-- 🔭 I'm currently working on RAYA
 - 🌱 I'm currently learning GraphQL, MERNQ and Vue.
 
 <a href="javascript:void(0);">
