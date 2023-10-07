@@ -21,6 +21,3 @@ I'm Daniel,
 - VCS: ![Git](https://img.shields.io/badge/GitHub-f54d27?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white) ![Bitbucket](https://img.shields.io/badge/Bitbucket-330F63?style=flat-square&logo=bitbucket&logoColor=white) ![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
 - IDE's: ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-25acf2?style=flat-square&logo=visual-studio-code&logoColor=white)
 - Design: ![Photoshop](https://img.shields.io/badge/-Photoshop-0A1A2F?style=flat-square&logo=Photoshop&logoColor=white)
-
-### 🤝 &nbsp;Connect with me
-<a href="https://www.linkedin.com/in/dghojas/" target="_blank" rel="noopener noreferrer">![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
